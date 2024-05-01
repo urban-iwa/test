@@ -1,0 +1,13 @@
+/docker                 export-ignore
+/.github                export-ignore
+/.php_cs                export-ignore
+composer.lock           export-ignore
+phpstan.neon.dist       export-ignore
+phpunit.xml.dist        export-ignore
+phpunit.xml.dist.bak    export-ignore
+README.md               export-ignore
+Taskfile.yml            export-ignore
+docker-compose.yaml     export-ignore
+docker-compose.yml      export-ignore
+pint.json               export-ignore
+microcms-template.json  export-ignore
